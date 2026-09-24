@@ -1,6 +1,6 @@
 # Moses West
 
-Full stack / web developer based in Texas and founder of **FlyHigh Planes**, a prelaunch aviation marketplace.
+Full stack / web developer based in Texas and founder of **FlyHigh Planes**, an aviation marketplace.
 
 ## About me
 
@@ -19,7 +19,7 @@ Full stack / web developer based in Texas and founder of **FlyHigh Planes**, a p
 
 ## FlyHigh Planes
 
-I began independent development in March 2021 and moved to full-time development in March 2026. [FlyHigh Planes](https://flyhighplanes.com) is preparing for public launch; the public site currently introduces the marketplace.
+I began independent development in March 2021 and moved to full-time development in March 2026. The [FlyHigh Planes](https://flyhighplanes.com) website introduces the marketplace.
 
 My work spans:
 
@@ -28,7 +28,7 @@ My work spans:
 - Moderation with deterministic content and media checks, exact-file duplicate-image checks, seller risk signals, conditional AI-assisted revision review, and human escalation.
 - User, listing, dealership, content, payment, and support administration with granular permissions, audit trails, and staged revisions that preserve published content until approval.
 
-The commercial application repository remains private. This profile summarizes the implementation without publishing proprietary source code. Feature availability is subject to launch readiness; matching-email delivery is not available on the public prelaunch site.
+The commercial application repository remains private. This profile summarizes the implementation without publishing proprietary source code. Matching-email delivery is not available on the public site.
 
 ## Connect
 
