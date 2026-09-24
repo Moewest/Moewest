@@ -1,23 +1,28 @@
 # Moses West
 
-Full stack developer and founder of **FlyHigh Planes**, a pre-launch aviation marketplace built as an independent full-time product venture.
+Full stack / web developer based in Texas and founder of **FlyHigh Planes**, a prelaunch aviation marketplace.
 
 ## About me
 
-- Strongest in PHP and SQL, with hands-on experience across MySQL-backed application logic and responsive JavaScript interfaces.
-- Frontend experience includes JavaScript, React, TypeScript, jQuery, Bootstrap, HTML5, CSS3, accessibility, and performance optimization.
-- Backend experience includes authentication and authorization, relational data modeling, database migrations, JSON endpoints, webhooks, Stripe subscriptions, file and media processing, and administrative tooling.
-- I build security and reliability into application workflows through prepared statements, CSRF and CSP controls, MFA, rate limiting, audit logging, secure uploads, and automated browser testing with Playwright.
-- Based in Texas.
+- Strongest in PHP and SQL, with experience building MySQL-backed application logic and responsive JavaScript interfaces.
+- Frontend work includes JavaScript, jQuery, Bootstrap, HTML5, CSS3, form development, and keyboard and focus behavior.
+- Backend work includes authentication and authorization, relational data modeling, schema migrations, JSON endpoints, webhooks, Stripe subscriptions, media processing, and administrative tools.
+- I use prepared statements, CSRF/CSP controls, MFA, rate limiting, audit logging, session and upload controls, Playwright regression tests, and Lighthouse audits. Python and Bash support automation and testing.
+- I also design and manage websites for organizations. Since February 2019, this has included church, manufacturing, and e-commerce sites. I currently manage two church websites, including a WordPress site using Breakdance, with ongoing page, sign-up form, content, responsive layout, and SEO updates.
 
 ## FlyHigh Planes
 
-FlyHigh Planes is a multi-sided aviation marketplace designed around listings, dealership profiles, wanted requests, search and comparison tools, messaging, payments, moderation, and administrative workflows.
+I began independent development in March 2021 and moved to full-time development in March 2026. [FlyHigh Planes](https://flyhighplanes.com) is preparing for public launch; the public site currently introduces the marketplace.
 
-I independently designed and built the application from concept through pre-launch implementation. I also integrated AI-assisted workflows to reduce manual advertisement review while retaining deterministic policy checks, audit history, and human escalation for uncertain cases.
+My work spans:
 
-The commercial source repository is private to protect proprietary application code, infrastructure details, and security-sensitive implementation. This profile presents an overview of the work without publishing the production code.
+- Listings, dealership profiles, wanted requests, aviation-focused search, messaging, saved comparisons, multi-step autosave, media processing, and background matching and alert-delivery workflows.
+- Stripe Checkout and subscription APIs with signed-webhook verification, idempotent fulfillment, retry tracking, reconciliation, cancellations, and duplicate or out-of-order event safeguards.
+- Moderation with deterministic content and media checks, exact-file duplicate-image checks, seller risk signals, conditional AI-assisted revision review, and human escalation.
+- User, listing, dealership, content, payment, and support administration with granular permissions, audit trails, and staged revisions that preserve published content until approval.
+
+The commercial application repository remains private. This profile summarizes the implementation without publishing proprietary source code. Feature availability is subject to launch readiness; matching-email delivery is not available on the public prelaunch site.
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/moses-west-933374323)
+[LinkedIn](https://linkedin.com/in/moses-west-dev) · [FlyHigh Planes](https://flyhighplanes.com)
